@@ -1,0 +1,197 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/main.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Suite 401 | Medical Office</title>
+<!-- InstanceEndEditable -->
+<meta name="description" content="Medical office of Dr. Ruane, Dr. V, Dr. Musikanth and Dr. Wolfe" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0" />
+<link href="css/global-102424.css" rel="stylesheet" type="text/css" />
+<link href="css/640.css" rel="stylesheet" type="text/css" media="only screen and (max-width:640px)"  />
+<!--<link href="../css/1024.css" rel="stylesheet" type="text/css" media="only screen and (min-width: 641px) and (max-width: 1024px)"  />-->
+<link rel="icon" href="favicon.ico" type="image/x-icon" />
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400" rel="stylesheet" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-45133719-8', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="idtag" type="text" value="" -->
+</head>
+
+<body id="">
+<div class="header-wrap">
+  <div class="header">
+    <div class="logo"><a href="index.php" title="Suite401 Medical Office Logo">
+      <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="172px" height="100px" viewBox="2729.136 1554.065 172 100" enable-background="new 2729.136 1554.065 172 100"
+	 xml:space="preserve">
+        <g>
+          <path fill="#00BBFF" d="M2752.157,1612.646c0,1.188-0.37,2.159-1.111,2.911c-0.739,0.752-1.704,1.128-2.892,1.128h-14.337
+		c-1.189,0-2.166-0.376-2.93-1.128c-0.765-0.752-1.146-1.723-1.146-2.911v-14.446h5.059v14.01h12.3v-13.573l-15.721-18.995
+		c-1.092-1.31-1.638-2.752-1.638-4.33v-11.535c0-1.188,0.382-2.159,1.146-2.911c0.764-0.751,1.74-1.128,2.93-1.128h14.337
+		c1.188,0,2.152,0.377,2.892,1.128c0.741,0.752,1.111,1.723,1.111,2.911v12.508h-5.058v-12.071h-12.3v12.009l15.792,18.995
+		c1.043,1.262,1.565,2.68,1.565,4.258V1612.646L2752.157,1612.646z"/>
+          <path fill="#00BBFF" d="M2776.195,1616.685h-4.767v-0.981c-1.942,0.267-3.87,0.521-5.786,0.764
+		c-2.329,0.291-4.258,0.438-5.786,0.438c-2.619,0-3.93-1.311-3.93-3.931v-31.695h4.767v31.077l10.735-0.292v-30.785h4.767V1616.685
+		L2776.195,1616.685z"/>
+          <path fill="#00BBFF" d="M2785.495,1576.237h-4.912v-6.114h4.912V1576.237z M2785.422,1616.685h-4.767v-35.406h4.767V1616.685z"/>
+          <path fill="#00BBFF" d="M2802.999,1616.685h-6.877c-2.718,0-4.075-1.371-4.075-4.111v-27.037h-4.258v-4.258h4.258v-11.025h4.767
+		v11.025h6.186v4.258h-6.186v26.891h6.186V1616.685L2802.999,1616.685z"/>
+          <path fill="#00BBFF" d="M2825.384,1612.573c0,2.74-1.358,4.111-4.075,4.111h-11.644c-2.718,0-4.076-1.371-4.076-4.111v-27.183
+		c0-2.741,1.358-4.112,4.076-4.112h11.644c2.717,0,4.075,1.371,4.075,4.112v12.735l-1.637,1.711h-13.465v12.81h10.408v-6.478h4.693
+		V1612.573L2825.384,1612.573z M2820.691,1595.979v-10.662h-10.408v10.662H2820.691L2820.691,1595.979z"/>
+        </g>
+        <polygon fill="#00BBFF" points="2847.228,1559.733 2852.133,1559.733 2841.761,1595.807 2858.872,1595.807 2858.872,1616.623 
+	2853.727,1616.623 2853.727,1599.888 2836.459,1599.888 2836.459,1597.186 "/>
+        <path fill="#00BBFF" d="M2883.951,1559.733h-15.998c-1.782,0-3.228,1.479-3.228,3.26v32.033c0.829-0.9,1.907-1.472,3.194-1.472
+	c0.646,0,1.301,0.145,1.774,0.4v-29.609h12.418v47.96h-12.418v-10.601c-0.474,0.257-1.129,0.4-1.774,0.4
+	c-1.287,0-2.365-0.57-3.194-1.471v12.808c0,1.781,1.445,3.181,3.228,3.181h15.998c1.782,0,3.188-1.399,3.188-3.181v-50.449
+	C2887.139,1561.212,2885.734,1559.733,2883.951,1559.733z"/>
+        <rect x="2895.774" y="1559.733" fill="#00BBFF" width="5.026" height="56.89"/>
+        <path fill="#00BBFF" d="M2872.829,1596.753h-2.974c-0.356-0.591-1.016-0.998-1.774-0.998c-1.134,0-2.053,0.93-2.053,2.063
+	c0,1.135,0.919,2.046,2.053,2.046c0.81,0,1.509-0.45,1.844-1.159h2.904V1596.753z"/>
+        <g>
+          <path fill="#00BBFF" d="M2729.595,1648.56v-11.95h1.548l3.943,10.52l3.879-10.52h1.548v11.95h-1.099v-10.426l-3.81,10.427
+		l-1.028,0.004l-3.884-10.404v10.399H2729.595L2729.595,1648.56z"/>
+          <path fill="#00BBFF" d="M2746.422,1648.56v-11.95h7.838v0.982h-6.74v4.327h6.158v0.981h-6.158v4.678h6.941v0.981H2746.422
+		L2746.422,1648.56z"/>
+          <path fill="#00BBFF" d="M2762.549,1636.609h0.815c0.844,0,1.528,0.039,2.057,0.116c0.526,0.077,1.006,0.255,1.439,0.532
+		c1.509,0.953,2.264,2.721,2.264,5.302c0,1.386-0.212,2.535-0.633,3.448c-0.422,0.914-1.049,1.594-1.881,2.036
+		c-0.389,0.211-0.854,0.35-1.397,0.416c-0.544,0.067-1.271,0.1-2.181,0.1h-3.296v-11.95H2762.549L2762.549,1636.609z
+		 M2760.835,1647.578h2.313c0.767,0,1.379-0.027,1.84-0.083s0.857-0.178,1.189-0.366c1.21-0.72,1.814-2.231,1.814-4.536
+		c0-2.227-0.577-3.717-1.73-4.47c-0.344-0.221-0.767-0.365-1.266-0.432c-0.499-0.067-1.154-0.1-1.963-0.1h-2.197V1647.578
+		L2760.835,1647.578z"/>
+          <path fill="#00BBFF" d="M2774.666,1648.56v-11.95h1.099v11.95H2774.666z"/>
+          <path fill="#00BBFF" d="M2790.145,1644.648h1.1c0,1.309-0.437,2.344-1.308,3.104c-0.871,0.761-2.027,1.141-3.471,1.141
+		c-1.598,0-2.865-0.561-3.803-1.681c-0.938-1.121-1.406-2.675-1.406-4.66c0-1.965,0.472-3.501,1.415-4.61
+		c0.943-1.11,2.22-1.665,3.828-1.665c1.375,0,2.49,0.35,3.345,1.049c0.855,0.699,1.282,1.619,1.282,2.763h-1.082
+		c-0.089-0.865-0.448-1.554-1.082-2.063c-0.633-0.511-1.454-0.767-2.463-0.767c-1.299,0-2.308,0.455-3.03,1.365
+		c-0.721,0.91-1.082,2.214-1.082,3.911c0,1.709,0.369,3.032,1.105,3.97c0.736,0.938,1.747,1.406,3.031,1.406
+		c1.085,0,1.959-0.291,2.623-0.874C2789.813,1646.454,2790.145,1645.658,2790.145,1644.648z"/>
+          <path fill="#00BBFF" d="M2795.188,1648.56l4.545-11.95h1.314l4.543,11.95l-1.14-0.003l-1.356-3.658h-5.41l-1.355,3.659
+		L2795.188,1648.56z M2798.058,1643.916h4.664l-2.342-6.156L2798.058,1643.916z"/>
+          <path fill="#00BBFF" d="M2810.101,1648.56v-11.95h1.099v10.969h6.142v0.981H2810.101z"/>
+          <path fill="#00BBFF" d="M2829.158,1642.584c0-1.941,0.497-3.479,1.49-4.61c0.992-1.132,2.322-1.697,3.985-1.697
+		c1.676,0,3.01,0.563,4.003,1.689c0.994,1.126,1.489,2.665,1.489,4.618s-0.495,3.494-1.489,4.619
+		c-0.993,1.127-2.327,1.689-4.003,1.689c-1.663,0-2.993-0.563-3.985-1.689C2829.656,1646.078,2829.158,1644.537,2829.158,1642.584z
+		 M2830.29,1642.584c0,1.665,0.394,2.97,1.182,3.911c0.788,0.944,1.842,1.416,3.162,1.416s2.377-0.472,3.172-1.416
+		c0.792-0.941,1.189-2.246,1.189-3.911s-0.395-2.968-1.182-3.911c-0.789-0.942-1.848-1.415-3.18-1.415
+		c-1.309,0-2.36,0.475-3.153,1.424C2830.687,1639.63,2830.29,1640.931,2830.29,1642.584z"/>
+          <path fill="#00BBFF" d="M2845.52,1648.56v-11.95h7.573v0.982h-6.476v4.311h5.876v0.982h-5.876v5.675H2845.52L2845.52,1648.56z"/>
+          <path fill="#00BBFF" d="M2858.218,1648.56v-11.95h7.573v0.982h-6.474v4.311h5.875v0.982h-5.875v5.675H2858.218L2858.218,1648.56z"
+		/>
+          <path fill="#00BBFF" d="M2871.001,1648.56v-11.95h1.099v11.95H2871.001z"/>
+          <path fill="#00BBFF" d="M2886.481,1644.648h1.098c0,1.309-0.435,2.344-1.306,3.104c-0.871,0.761-2.028,1.141-3.471,1.141
+		c-1.598,0-2.865-0.561-3.803-1.681c-0.938-1.121-1.406-2.675-1.406-4.66c0-1.965,0.471-3.501,1.415-4.61
+		c0.941-1.11,2.218-1.665,3.827-1.665c1.376,0,2.491,0.35,3.346,1.049c0.854,0.699,1.281,1.619,1.281,2.763h-1.082
+		c-0.088-0.865-0.449-1.554-1.082-2.063c-0.632-0.511-1.453-0.767-2.463-0.767c-1.298,0-2.309,0.455-3.028,1.365
+		c-0.722,0.91-1.083,2.214-1.083,3.911c0,1.709,0.368,3.032,1.104,3.97c0.736,0.938,1.747,1.406,3.03,1.406
+		c1.086,0,1.961-0.291,2.625-0.874C2886.148,1646.454,2886.481,1645.658,2886.481,1644.648z"/>
+          <path fill="#00BBFF" d="M2892.939,1648.56v-11.95h7.84v0.982h-6.742v4.327h6.16v0.981h-6.16v4.678h6.941v0.981H2892.939
+		L2892.939,1648.56z"/>
+        </g>
+        <rect x="2729.422" y="1627.622" fill="#00BBFF" width="171.438" height="0.71"/>
+      </svg>
+      </a></div>
+    <div class="topleft">
+      <div class="info"><a href="contact.php#location">5901 W Olympic Blvd. Suite 401 <br />
+        Los Angeles, CA 90036</a></div>
+		<div id="paymybill">
+        <div class="desktop"><a href="http://www.healowpay.com/">Pay my bill</a></div>
+        <div class="mobile"><a href="http://www.healowpay.com/">Pay my bill</a></div>
+      </div>
+      <div id="portal">
+        <div class="desktop"><a href="patientportal.php">Patient Portal</a></div>
+        <div class="mobile"><a href="patientportal.php#top">Patient Portal</a></div>
+      </div>
+      <div class="navigation">
+        <div class="desktop">
+          <ul>
+            <li class="home"><a href="index.php">Home</a></li>
+            <!--<li><a href="../alert-coronavirus.php">COVID-19 Registration</a></li>-->
+            <li><a href="providers.php">Providers</a></li>
+            <li><a href="patient.php">Register New Patient</a></li>
+            <li><a href="contact.php">Contact</a></li>
+            <li><a href="policies-dr.php">Policies</a></li>
+          </ul>
+        </div>
+        <div class="mobile"> 
+          <!--<div class="alert"></div>-->
+          <ul>
+            <li class="home"><a href="index.php">Home</a></li>
+            <!--<li><a href="../alert-coronavirus.php#top">COVID-19</a></li>-->
+            <li><a href="patient.php#top">Register</a></li>
+            <li class="desktop" ><a href="providers.php#top">Providers</a></li>
+            <li><a href="contact.php#top">Contact</a></li>
+            <li><a href="policies-dr.php">Policies</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="top">
+  <div class="mobile">
+    <div class="menuswipe"><img src="images/uparrow.gif" width="14" height="13" />&nbsp;&nbsp;&nbsp;&nbsp;menu   &nbsp;&nbsp;&nbsp;<img src="images/uparrow.gif" width="14" height="13" /></div>
+  </div>
+</div>
+<!-- InstanceBeginEditable name="main" -->
+<div>
+  <div class="formbanner-wr">
+    <div class="formbanner">
+      <h1><img src="images/lockb.png" width="38" height="29" />Registration form for New Patients at Suite 401</h1>
+    </div>
+  </div>
+  <div class="formtop">&nbsp;</div>
+  <div class="form-wr">
+    <div class="formbox">
+      <div class="introtext">
+        <p><img src="images/lock.png" width="8" height="11" /> <strong>Encrypted page</strong></p>
+        <p>&nbsp;</p>
+        <p>Form should appear below soon:</p>
+        <p class="formnotshowing">(If the form does not appear within 30 seconds or any other issue, please <a href="patient-formnotshowing.php" target="_blank">click here</a>.)</p>
+        <p class="alrt">&nbsp;</p>
+          <p>We accept most PPO plans and Medicare. <!--If you would like us to verify your insurance before registering below, please send us your card by <a href="https://form.123formbuilder.com/6248810/form"><u>clicking here and uploading your insurance card.</u></a>.--></p>
+      </div>
+<!-- form.123formbuilder.com script begins here -->
+<script type="text/javascript" defer src="https://form.123formbuilder.com/embed/6610716.js" data-role="form" data-default-width="800px" data-custom-vars="hasEmbedFormStyle=1"></script>
+<!-- form.123formbuilder.com script ends here -->
+      <p>&nbsp;</p>
+    </div>
+  </div>
+</div>
+<!-- InstanceEndEditable -->
+<div class="footerwr">
+  <div class="footer">
+    <div class="footer-contact">
+      <p><span class="contactd"><img src="images/email-f.png" alt="Email Us" width="23" height="15" />Email</span> &nbsp;<script language="JavaScript">
+var username = "Info";
+var hostname = "suite401medical.com";
+var linktext = username + "@" + hostname ;
+document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");
+</script></p>
+      <p><span class="contactd"><img src="images/phone-f.png" alt="Call us" width="23" height="14" />Phone</span>&nbsp;Dr. Peter Ruane with Kenny Trinidad PA-C; Matthew Musikanth, PA-C; Dr. Peter Wolfe: <a href="tel:+13239541072"> 323.954.1072 / 323.525.1101 </a> | Research Dept.: <a href="tel:+13239540400">323.954.0400 </a> | FibroScan: <a href="tel:+13107105220">310.710.5220</a> </p>
+      <!-- <p><span class="contactd"><img src="images/phone-f.png" alt="Call us" width="23" height="14" />Phone</span>&nbsp;Dr. Phillip Musikanth: <a href="tel:+13235251101"> 323.525.1101 </a></p> -->
+      <p><span class="contactd"><img src="images/phone-f.png" alt="Call us" width="23" height="14" />Phone</span>&nbsp;Dr. Koppany Visnyei, Asia Sullivan PA-C, Jake Collins PA-C: <a href="tel:+13106519017"> 310.651.9017 </a></p>
+      <p><span class="contactd"><img src="images/fax-f.png" alt="Fax number" width="23" height="12" />Fax</span> &nbsp;Practice: 323.954.1081</p>
+      <p><span class="contactd"><img src="images/directions-f.png" alt="Our location" width="23" height="12" />Location&nbsp;</span> 5901 W Olympic Blvd.  Suite 401  Los Angeles,  California 90036</p>
+    </div>
+    <div class="footerlogo"><img src="images/suite401logo-transp.png" width="178" height="102" alt="Suite 401" /></div>
+    <div class="footer-copyr">
+      <p>Copyright 2023 | Suite 401 Medical Office</p>
+      <p>&nbsp;</p>
+    </div>
+  </div>
+</div>
+</body>
+<!-- InstanceEnd --></html>

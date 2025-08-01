@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+.iframestyle {
+	width: 96%;
+	height: 360px;
+	margin-left:2%;
+	margin-right:2%;
+}
+
+.subt {
+	height:25px;
+}
+.logo {
+	height:40px;
+}
